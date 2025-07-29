@@ -84,3 +84,10 @@ Thumbs.db
 # Custom: If you ever generate docs, ignore Sphinx build
 docs/_build/
 
+# PyInstaller build folders
+/dist/
+/build/
+/*.spec
+
+# Executables
+*.exe

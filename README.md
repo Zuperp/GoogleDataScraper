@@ -104,11 +104,6 @@ See `requirements.txt`, including:
 
 ---
 
-## License
-
-MIT
-
----
 
 ## Author
 

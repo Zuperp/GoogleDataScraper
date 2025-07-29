@@ -86,7 +86,7 @@ To create a standalone Windows `.exe` file:
 2. Build the executable:
 
     ```sh
-    pyinstaller --onefile --windowed gui_app.py
+    pyinstaller --onefile --windowed main.py
     ```
 
 3. Distribute the `.exe` from the `dist/` folder (along with your `.env` and any example files as needed).

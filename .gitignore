@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
+*.pyo
+*.pyd
 
 # C extensions
 *.so
@@ -80,3 +83,4 @@ Thumbs.db
 
 # Custom: If you ever generate docs, ignore Sphinx build
 docs/_build/
+

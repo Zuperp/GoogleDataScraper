@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 import os
 
-from file_utils import (
+from file_utility import (
     detect_header_row_and_columns,
     read_keywords,
     read_mock_hits,
